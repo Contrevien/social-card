@@ -1,0 +1,9 @@
+.SocialCard{
+    position: relative;
+    width: 500px;
+    max-height: 60%;
+    border-radius: 5px;
+    margin: 0 20px;
+    border: 1px solid #ccc;
+}
+
